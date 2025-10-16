@@ -1,7 +1,7 @@
 {
-  "name": "test",
-  "symbol": "TEST",
-  "description": "Devnet demo token",
+  "name": "Solana",
+  "symbol": "SOL",
+  "description": "Solana.",
   "image": "https://raw.githubusercontent.com/<user>/<repo>/main/icon.png",
   "attributes": [],
   "properties": {
