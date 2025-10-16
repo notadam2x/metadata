@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "symbol": "TEST",
+  "description": "Devnet demo token",
+  "image": "https://raw.githubusercontent.com/<user>/<repo>/main/icon.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {"uri": "https://raw.githubusercontent.com/<user>/<repo>/main/icon.png", "type": "image/png"}
+    ],
+    "category": "image"
+  }
+}
