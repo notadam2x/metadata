@@ -1,0 +1,13 @@
+{
+  "name": "TEST-MINT",
+  "symbol": "MINT",
+  "description": "MINT TOKEN TEST",
+  "image": "https://raw.githubusercontent.com/<user>/<repo>/main/icon.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {"uri": "https://raw.githubusercontent.com/<user>/<repo>/main/icon.png", "type": "image/png"}
+    ],
+    "category": "image"
+  }
+}
